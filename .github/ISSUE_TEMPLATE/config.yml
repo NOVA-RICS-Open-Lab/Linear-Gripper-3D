@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📄 Docs
+    url: https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/tree/main/docs
+    about: View 3D Linear Gripper Docs.
+  - name: 💬 Forum
+    url: https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/discussions
+    about: Ask on 3D Linear Gripper Discussions.
