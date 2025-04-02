@@ -1,7 +1,5 @@
 <div  align="center"> 
 
-![image](https://github.com/RICS-UNINOVA/Gripper-Linear/assets/74061652/ca27036d-2340-4906-ac9f-d6a06c8aadff)
-
 # 3D Printed Linear Gripper
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
