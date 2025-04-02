@@ -74,11 +74,6 @@ Notas: As peças do Kit FMS têm uma dimensao de 58mm.
 ## Contribution Guidelines
 NOVA RICS Open Lab open source, and we welcome contributions from the community! See the [Contribution](CONTRIBUTING.md) guide for more information on the development workflow and the internals of the wandb library. For project related bugs and feature requests, visit [GitHub Issues](https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/issues) or contact novaricsopenlab@gmail.com.
 
-## Citation
-If you use or intend to build on top of  the work in this repo, please consider citing our project:
-```bibtex
-```
-
 ## License
 This repository is released under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
 
