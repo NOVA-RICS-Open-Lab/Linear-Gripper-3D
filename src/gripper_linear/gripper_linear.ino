@@ -65,8 +65,8 @@ void SetupWifi() {
 
 void SetupWiFiServer() {
 
-  server.on("/open/", HTTP_POST, HandleOPEN);
-  server.on("/close/", HTTP_POST, HandleCLOSE);
+  server.on("/open", HTTP_POST, HandleOPEN);
+  server.on("/close", HTTP_POST, HandleCLOSE);
   server.onNotFound(HandleNotFound);
   
   server.begin();
